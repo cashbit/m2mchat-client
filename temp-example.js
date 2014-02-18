@@ -1,4 +1,4 @@
-var remoterclient = require('../remoter-client') ;
+var remoterclient = require('m2mchat-client') ;
 
 // utility function
 function getRandomInt (min, max) {

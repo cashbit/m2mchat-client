@@ -1,4 +1,4 @@
-var remoterclient = require('../remoter-client') ;
+var remoterclient = require('m2mchat-client') ;
 
 var digitalPins = {
 	'13':false
